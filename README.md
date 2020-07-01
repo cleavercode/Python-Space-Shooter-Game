@@ -3,4 +3,6 @@
 # Python-Space-Shooter-Game
 Space Shooter Most Popular Game In The World , Let Learn How To Build A Space Shooter Game With Python.
 
-#Recommendation Type In cmd->pip install pygame
+#Recommendation 
+1: Install Python In Your Windows
+2: Type In cmd->pip install pygame
